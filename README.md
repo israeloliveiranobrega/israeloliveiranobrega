@@ -24,19 +24,6 @@
 
 <br />
 
-### GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/israeloliveiranobrega">
-    <img src="https://github-readme-stats.vercel.app/api?username=israeloliveiranobrega&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Israel's GitHub Stats" height="180"/>
-  </a>
-  <a href="https://github.com/israeloliveiranobrega">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israeloliveiranobrega&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-  </a>
-</div>
-
-<br />
-
 ### Latest Projects
 
 | Project | Description | Stack |
