@@ -32,7 +32,3 @@
 | **Project Name** | Brief description of another key project. | `MAUI` `Blazor` |
 
 <br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=israeloliveiranobrega&style=flat-square&color=512BD4" alt="Profile Views" />
-</div>
